@@ -1,0 +1,226 @@
+{
+  "default": {
+    "firstId": 1
+  },
+  "scenes": [
+    {
+      "sceneId": 1,
+      "title": "Al Mirqab",
+      "img": "img/hotel_exterior.jpg",
+      "scenes": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 2220,
+          "top": 1050,
+          "text": "Click to Enter"
+        },
+        {
+          "type": "info",
+          "left": 2000,
+          "top": 1200,
+          "text": "Welcome to the Hotel Al Mirqab"
+        }
+      ]
+    },
+    {
+      "sceneId": 2,
+      "title": "Premium Star Room",
+      "img": "img/360_hotel_bedroom1.jpg",
+      "scenes": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 2220,
+          "top": 1000,
+          "text": "Back To Reception"
+        },
+        {
+          "type": "scene",
+          "sceneId": 5,
+          "left": 2220,
+          "top": 1070,
+          "text": "Outside Market"
+        },
+        {
+          "type": "scene",
+          "sceneId": 6,
+          "left": 2220,
+          "top": 1140,
+          "text": "Neighbouring Place"
+        },
+        {
+          "type": "info",
+          "left": 2000,
+          "top": 1150,
+          "text": "Premium Star Room: The Finest Room to Stay"
+        }
+      ]
+    },
+    {
+      "sceneId": 3,
+      "title": "Reception",
+      "img": "img/hotel_reception.jpg",
+      "scenes": [
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 2220,
+          "top": 1000,
+          "text": "Diamond Star Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 2220,
+          "top": 1080,
+          "text": "Premium Star Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 6,
+          "left": 2220,
+          "top": 1160,
+          "text": "Neighbouring place"
+        },
+        {
+          "type": "scene",
+          "sceneId": 5,
+          "left": 2220,
+          "top": 1240,
+          "text": "Outside Market"
+        },
+        {
+          "type": "scene",
+          "sceneId": 1,
+          "left": 2220,
+          "top": 1320,
+          "text": "Hotel Exterior"
+        },
+        {
+          "type": "info",
+          "left": 2000,
+          "top": 1200,
+          "text": "Require the Doubts Here"
+        }     
+      ]
+    },
+    {
+      "sceneId": 4,
+      "title": "Diamond Star Room",
+      "img": "img/360_hotel_bedroom2.jpg",
+      "scenes": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 2220,
+          "top": 950,
+          "text": "Back To Reception"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 2220,
+          "top": 1020,
+          "text": "Premium Star Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 5,
+          "left": 2220,
+          "top": 1090,
+          "text": "Outside Market"
+        },
+        {
+          "type": "scene",
+          "sceneId": 6,
+          "left": 2220,
+          "top": 1160,
+          "text": "Neighbouring Place"
+        },
+        {
+          "type": "info",
+          "left": 2000,
+          "top": 1200,
+          "text": "Diamond Star Room: Finest Place on Earth"
+        }
+      ]
+    },
+    {
+      "sceneId": 5,
+      "title": "Outside Market",
+      "img": "img/360_gdansk.jpg",
+      "scenes": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 2220,
+          "top": 900,
+          "text": "Back to Recption"
+        },
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 2220,
+          "top": 970,
+          "text": "Diamond Star Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 2220,
+          "top": 1040,
+          "text": "Premium Star Room"
+        },
+        {
+          "type": "info",
+          "left": 2000,
+          "top": 1200,
+          "text": "Very Popular Market"
+        }          
+      ]
+    },
+    {
+      "sceneId": 6,
+      "title": "Neighbour",
+      "img": "img/360_neighbor.jpg",
+      "scenes": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 2220,
+          "top": 1150,
+          "text": "Back To Reception"
+        },
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 2220,
+          "top": 1220,
+          "text": "Diamond Star Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 2220,
+          "top": 1290,
+          "text": "Premium Star Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 5,
+          "left": 1100,
+          "top": 1360,
+          "text": "Outside Market"
+        },
+        {
+          "type": "info",
+          "left": 2000,
+          "top": 1200,
+          "text": "A Lovely Neighbooring"
+        }
+      ]
+    }
+
+  ]
+}

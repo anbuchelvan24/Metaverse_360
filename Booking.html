@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html style="background-image:url('img.png');">
+   
+<body>
+    <center>
+    <div ><p style=" border-radius: 12rem; background-color: #fff;  margin-top: 20%; width: 30%; height: 100%;">
+        <br><br>
+    <label for="FirstName"> Please enter your FirstName:</label>
+    <input type="text" id="FirstName" name="FirstName" minlength="3" maxlength="20" required><br>
+    <label for="LastName"> Please enter your LastName:</label>
+    <input type="text" id="LastName" name="LastName" minlength="3" maxlength="20" required><br>
+    <label for="Email"> Please enter your Email:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="text" id="Email" name="Email" minlength="3" required><br><br><br>
+    
+    <button type="submit" onclick=submit()>Submit</button>
+    <br><br>
+    </p></div>
+</center>
+    <script >
+        function submit(){
+        send_data(document.getElementById("FirstName").Value,document.getElementById("LastName").Value,document.getElementById("Email").Value);
+        }
+    </script>
+
+<script type="text/javascript" src="Booking.js"></script>
+</body>
+</html>
